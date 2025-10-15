@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ConsoleAppTest/ConsoleAppTest.csproj" />
+  <Project Path="AL Agent.csproj" />
+</Solution>
