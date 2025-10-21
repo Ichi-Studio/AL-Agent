@@ -1,1 +1,1 @@
-.NET 9/10 + Mircosoft Agent Framwork
+.NET 9/10 + Mircosoft Agent Framwork + Spec-kit
